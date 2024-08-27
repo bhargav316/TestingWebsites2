@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30797" started-at="2024-03-25T02:04:35 IST" finished-at="2024-03-25T02:05:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30797" started-at="2024-03-25T02:04:35 IST" finished-at="2024-03-25T02:05:06 IST">
+      <class name="Games.Activision_Test">
+        <test-method status="PASS" signature="helios()[pri:0, instance:Games.Activision_Test@63e2203c]" name="helios" duration-ms="5408" started-at="2024-03-25T02:04:58 IST" finished-at="2024-03-25T02:05:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helios -->
+      </class> <!-- Games.Activision_Test -->
+      <class name="Games.Gameloft_Test">
+        <test-method status="PASS" signature="helios()[pri:0, instance:Games.Gameloft_Test@57855c9a]" name="helios" duration-ms="6672" started-at="2024-03-25T02:04:35 IST" finished-at="2024-03-25T02:04:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helios -->
+      </class> <!-- Games.Gameloft_Test -->
+      <class name="Games.Softonic_Test">
+        <test-method status="PASS" signature="softonic()[pri:0, instance:Games.Softonic_Test@3224f60b]" name="softonic" duration-ms="11776" started-at="2024-03-25T02:04:46 IST" finished-at="2024-03-25T02:04:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- softonic -->
+      </class> <!-- Games.Softonic_Test -->
+      <class name="Games.Ubisoft_Test">
+        <test-method status="PASS" signature="helios()[pri:0, instance:Games.Ubisoft_Test@1efed156]" name="helios" duration-ms="3207" started-at="2024-03-25T02:05:03 IST" finished-at="2024-03-25T02:05:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helios -->
+      </class> <!-- Games.Ubisoft_Test -->
+      <class name="Games.Krafton_Test">
+        <test-method status="PASS" signature="helios()[pri:0, instance:Games.Krafton_Test@3b084709]" name="helios" duration-ms="3691" started-at="2024-03-25T02:04:42 IST" finished-at="2024-03-25T02:04:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helios -->
+      </class> <!-- Games.Krafton_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

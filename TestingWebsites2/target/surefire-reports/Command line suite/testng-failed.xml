@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="Watches.Helios_Test">
+        <methods>
+          <include name="helios"/>
+        </methods>
+      </class> <!-- Watches.Helios_Test -->
+      <class name="Games.Tekken_Test">
+        <methods>
+          <include name="helios"/>
+        </methods>
+      </class> <!-- Games.Tekken_Test -->
+      <class name="Watches.Boat_Test">
+        <methods>
+          <include name="boat"/>
+        </methods>
+      </class> <!-- Watches.Boat_Test -->
+      <class name="Watches.Rado_Test">
+        <methods>
+          <include name="rado"/>
+        </methods>
+      </class> <!-- Watches.Rado_Test -->
+      <class name="Watches.Bmw_Test">
+        <methods>
+          <include name="bmw"/>
+        </methods>
+      </class> <!-- Watches.Bmw_Test -->
+      <class name="Watches.Casio_Test">
+        <methods>
+          <include name="casio"/>
+        </methods>
+      </class> <!-- Watches.Casio_Test -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
